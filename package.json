@@ -29,7 +29,7 @@
     "web playback"
   ],
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0"
+    "react": "^18.0.0"
   },
   "dependencies": {
     "@gilbarbara/react-range-slider": "^0.6.1",
